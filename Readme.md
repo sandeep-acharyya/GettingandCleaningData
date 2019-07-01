@@ -18,4 +18,4 @@ Convert the activity and subject columns into factors
 
 Create a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair
 
-The end result is shown in the file FinalData.txt.
+Write the final tidy dataset into a file FinalData.txt.
